@@ -2,7 +2,7 @@
 
 Showcases a recommendation system using Amazon Personalize to generate real-time recommendations based on interactions by customers.
 
-****Project one the GE Hack'e'lth 2021 hackathon organised by GE Healthcare India and is waiting to be implemented at GE Healthcare.****
+****Project won the GE Hack'e'lth 2021 hackathon organised by GE Healthcare India and is waiting to be implemented at GE Healthcare.****
 ## Getting started
 
 1. Deploy the backend on AWS
